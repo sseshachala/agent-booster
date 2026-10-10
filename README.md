@@ -1,3 +1,5 @@
+> **This repository is archived.** Agent Booster now lives in [`sseshachala/conductai` → `tools/booster`](https://github.com/sseshachala/conductai/tree/main/tools/booster). Install from PyPI (`pip install agent-booster`); file issues and PRs on conductai.
+
 <!-- mcp-name: io.github.sseshachala/agent-booster -->
 # Agent Booster
 
